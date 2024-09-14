@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "科研领域及兴趣"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+研发先进制备工艺，利用先进表征与测试技术，开发适用于核能系统高温、辐照和腐蚀等极端环境的关键材料，包括燃料、结构材料和探测器材料。致力于在先进核能系统的材料辐照效应和耐辐照腐蚀方面取得突破，促进核能资源的高效安全利用，为燃料循环和废料回收提供技术基础。发挥高校基础科研的特点和优势，探索极具工程应用价值的基础科学机制，专注于有普适性且长期存在的科学挑战为工程技术发展提供基础支持。
 
 A data-driven personal website
 ======
